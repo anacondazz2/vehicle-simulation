@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Salmon
+comment0.text=\r\n\ Salmon\ are\ the\ most\ basic\ fish\ type.\ They\ exist\ both\ when\ it's\ raining\ and\ when\ it's\ not.\r\n\ Relatively\ fast\ reeling\ speed.\r\n\ \r\n\ @author\ Patrick\ Hu\r\n\ @version\ October\ 2022\r\n
+comment1.params=direction
+comment1.target=Salmon(int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

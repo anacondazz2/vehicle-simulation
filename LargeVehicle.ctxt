@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=LargeVehicle
+comment0.text=\r\n\ Abstract\ superclass\ for\ large\ vehicles\ such\ as\ PirateShips\ and\ NavyShips.\r\n\ Contains\ functionality\ common\ to\ each\ such\ as\ a\ crew\ label.\r\n\ \r\n\ @author\ Patrick\ Hu\r\n\ @version\ October\ 2022\r\n
+comment1.params=origin
+comment1.target=LargeVehicle(VehicleSpawner)
+comment2.params=
+comment2.target=void\ moveCrewLabel()
+comment3.params=
+comment3.target=void\ updateCrewLabel()
+comment4.params=
+comment4.target=void\ removeCrewLabel()
+comment5.params=
+comment5.target=void\ checkHitStrandedFisherman()
+comment6.params=
+comment6.target=void\ die()
+comment6.text=\r\n\ Removes\ the\ ship\ from\ the\ world\ along\ with\ its\ crew\ label.\r\n
+comment7.params=start\ end
+comment7.target=int\ getRandomNumberInRange(int,\ int)
+numComments=8

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Lobster
+comment0.text=\r\n\ Lobsters\ only\ come\ out\ when\ it's\ raining\ during\ a\ RainStorm\ effect.\r\n\ They\ have\ a\ slower\ reeling\ speed\ than\ Salmon.\r\n\ \r\n\ @author\ Patrick\ Hu\r\n\ @version\ October\ 2022\r\n
+comment1.params=direction
+comment1.target=Lobster(int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

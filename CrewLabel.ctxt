@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=CrewLabel
+comment0.text=\r\n\ An\ image\ that\ displays\ the\ size\ of\ a\ LargeVehicle's\ crew\ along\ with\ a\ crew\ symbol.\ \r\n\ \r\n\ @author\ Patrick\ Hu\ \r\n\ @version\ October\ 2022\r\n
+comment1.params=crewSize
+comment1.target=CrewLabel(int)
+comment2.params=newCrewSize
+comment2.target=void\ update(int)
+numComments=3

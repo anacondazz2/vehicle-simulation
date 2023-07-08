@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=RainDrop
+comment0.text=\r\n\ A\ singular\ rain\ drop.\r\n\ \r\n\ @author\ Patrick\ Hu\r\n\ @version\ October\ 2022\r\n
+comment1.params=
+comment1.target=RainDrop()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ fade()
+comment3.text=\r\n\ Slowly\ fades\ out\ the\ raindrop\ and\ removes\ it\ from\ the\ world\r\n
+numComments=4
