@@ -5,4 +5,4 @@ Common simulations are done with vehicles operating on land. This rendition adds
 ## How to Run
 1. Download [Greenfoot](https://www.greenfoot.org/download).
 
-2. Run project.greenfoot.
+2. Download and run the .gfar file.
