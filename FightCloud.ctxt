@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.target=FightCloud
-comment0.text=\r\n\ A\ fighting\ cloud\ gif\ displayed\ when\ a\ NavyShip\ and\ PirateShip\ fight.\r\n\ \r\n\ @author\ Patrick\ Hu\ \r\n\ @version\ October\ 2022\r\n
-comment1.params=
-comment1.target=FightCloud()
-comment2.params=
-comment2.target=void\ act()
-numComments=3

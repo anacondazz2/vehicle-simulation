@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.target=Effect
-comment0.text=\r\n\ Superclass\ for\ effects.\r\n\ \r\n\ @author\ Patrick\ Hu\r\n\ @version\ October\ 2022\r\n
-comment1.params=
-comment1.target=Effect()
-comment2.params=
-comment2.target=void\ act()
-numComments=3
