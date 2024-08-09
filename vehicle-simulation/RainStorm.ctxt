@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=RainStorm
+comment0.text=\r\n\ A\ rainstorm\ effect\ that\ randomly\ occurs\ during\ the\ simulation.\r\n\ An\ actor\ that\ is\ just\ a\ black\ image\ with\ opacity\ lowered\ to\ create\ a\ dark\ overlay.\r\n\ Continuously\ spawns\ Raindrops.\r\n\ Slows\ down\ all\ LargeVehicles\ while\ making\ Dinghys(burglars)\ move\ faster\ in\ order\ to\ dodge\ the\ rain.\r\n\ Fisherman\ will\ allows\ lobsters\ to\ spawn\ during\ its\ effect.\r\n\ \r\n\ @author\ Patrick\ Hu\r\n\ @version\ October\ 2022\r\n
+comment1.params=duration
+comment1.target=RainStorm(int)
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ stopSounds()
+numComments=5

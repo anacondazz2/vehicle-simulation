@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=StrandedFisherman
+comment0.text=\r\n\ An\ image\ of\ stranded\ fisherman.\r\n\ \r\n\ @author\ Patrick\ Hu\r\n\ @version\ October\ 2022\r\n
+comment1.params=
+comment1.target=StrandedFisherman()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=NavyShip
+comment0.text=\r\n\ The\ fastest\ vehicle.\r\n\ Saves\ stranded\ fishermen,\ allowing\ them\ to\ join\ their\ crew.\r\n\ Fights\ pirate\ ships\ if\ encountered\ head\ on.\r\n\ \r\n\ @author\ Patrick\ Hu\r\n\ @version\ October\ 2022\r\n
+comment1.params=origin
+comment1.target=NavyShip(VehicleSpawner)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkHitVehicle()
+comment3.text=\r\n\ Checks\ for\ PirateShip\ in\ front\ of\ it.\ Starts\ a\ fight\ for\ a\ relatively\ long\ time\ with\ the\ pirate\ ship.\r\n\ The\ ship\ with\ more\ crew\ members\ wins.\r\n
+comment4.params=
+comment4.target=void\ stopSounds()
+numComments=5

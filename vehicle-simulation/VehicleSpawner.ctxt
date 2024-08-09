@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=VehicleSpawner
+comment0.text=\r\n\ A\ Spawner\ object\ is\ a\ place\ where\ a\ Vehicle\ can\ spawn.\ Each\ spawner\ is\r\n\ able\ to\ check\ if\ there\ is\ already\ a\ Vehicle\ in\ the\ spot\ to\ avoid\ spawning\r\n\ multiple\ Vehicles\ on\ top\ of\ each\ other.\ \r\n\ \r\n\ @author\ Jordan\ Cohen\r\n\ @version\ October\ 2022\r\n
+comment1.params=rightward\ laneHeight
+comment1.target=VehicleSpawner(boolean,\ int)
+comment2.params=
+comment2.target=boolean\ facesRightward()
+comment3.params=
+comment3.target=boolean\ isTouchingVehicle()
+numComments=4

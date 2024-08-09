@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Rock
+comment0.text=\r\n\ An\ image\ of\ a\ rock.\r\n\ \r\n\ @author\ Patrick\ Hu\ \r\n\ @version\ October\ 2022\r\n
+comment1.params=scale
+comment1.target=Rock(double)
+comment2.params=
+comment2.target=void\ act()
+numComments=3
